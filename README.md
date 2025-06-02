@@ -1,4 +1,4 @@
- Simulação de Cobras e Escadas 
+## Simulação de Cobras e Escadas 
 
 Este projeto simula o jogo de Cobras e Escadas com diferentes variações para analisar como elas afetam as chances de vitória dos jogadores.
 
